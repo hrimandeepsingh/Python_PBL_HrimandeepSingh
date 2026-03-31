@@ -17,3 +17,6 @@ This project predicts Olympic performance using machine learning techniques.
 
 ## 👨‍💻 Team Lead
 Aarav Fangalia
+MEMBERS 
+Hrimandeep Singh
+Vansh Kadiyan
