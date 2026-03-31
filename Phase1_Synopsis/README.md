@@ -8,4 +8,4 @@ It includes:
 - Methodology
 
 Project: Olympic Performance Prediction  
-Team Lead: Aarav Fangalia
+
